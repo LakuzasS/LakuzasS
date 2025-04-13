@@ -23,21 +23,21 @@
 
 ## GitHub Stats
 
-![M's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxime-Brodin&show_icons=true&theme=radical)
+![Maxime's GitHub stats](https://github-readme-stats.vercel.app/api?username=LakuzasS&show_icons=true&theme=radical)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxime-Brodin&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LakuzasS&layout=compact&theme=radical)
 
 ## GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=maxime-brodin&theme=light)
+![trophy](https://github-profile-trophy.vercel.app/?username=LakuzasS&theme=light)
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/maxime-brodin)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:mbrodin.pro@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-white?style=flat&logo=Inspire&logoColor=blue)](https://www.linkedin.com/in/maxime-brodin)
+[![Email](https://img.shields.io/badge/-Email-white?style=flat&logo=gmail)](mailto:mbrodin.pro@gmail.com)
 
 ## Visitor Count
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Maxime-Brodin.Maxime-Brodin)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Maxime-Brodin.Mxb)
