@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20page%20!&fontSize=45&fontAlignY=40&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1bd127&lines=└─$+Cybersecurity+Enthusiast;└─$+Ethical+Hacking+%26+Blue+Team;└─$+Network+%26+Systems+Admin;└─$+Root-Me+Active+Member;└─$+SC-900+%7C+CSNA+Certified;└─$+Future+Cyber+Engineer;└─$+Entrepreneur+Mindset)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1bd127&lines=└─$+Cybersecurity+Enthusiast;└─$+Ethical+Hacking+%26+Blue+Team;└─$+Network+%26+Systems+Admin;└─$+Root-Me+Active+Member;└─$+Future+Cyber+Engineer)](https://git.io/typing-svg)
 ## About Me
 
 - 💻 I’m currently working on **network security** and **infrastructure automation**
