@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1bd127&lines=└─$+Cybersecurity+Enthusiast;└─$+Ethical+Hacking+%26+Blue+Team;└─$+Network+%26+Systems+Admin;└─$+Root-Me+Active+Member;└─$+Future+Cyber+Engineer)](https://git.io/typing-svg)
 ## About Me
 
+- 🎓 Portfolio : https://maxime-brodin.codered.cloud
 - 💻 I’m currently working on **network security** and **infrastructure automation**
 - 🛡️ Exploring **cybersecurity**, **SIEM** integration, and **DevSecOps** practices  
 - 👯 Open to collaborating on **cybersecurity projects** and **CTF teams**
@@ -40,4 +41,4 @@
 
 ## Visitor Count
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Maxime-Brodin.Mxb)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Maxime-Brodin.MxB)
