@@ -21,6 +21,7 @@
 ![SQL](https://img.shields.io/badge/SQL-01638e?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-049ba1?style=for-the-badge&logo=arduino&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ## GitHub Stats
 
